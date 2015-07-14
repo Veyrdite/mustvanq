@@ -1,4 +1,4 @@
-Master server replacement for Unvanquished.
+Master server replacement for Unvanquished.  Public domain.
 
 Still under heavy development!  Only responds to a small subset of commands (see main.cpp) and probably suffers hardening issues for erroneous input.
 
